@@ -1,5 +1,5 @@
 <litepal>
-    <dbname value = "new_werther" />
+    <dbname value = "new_weather" />
     <version value = "1"/>
 
     <list>
