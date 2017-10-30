@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value = "new_werther" />
+    <version value = "1"/>
+
+    <list>
+        <mapping class = "com.ctrl.newweather.db.Province"/>
+        <mapping class = "com.ctrl.newweather.db.City"/>
+        <mapping class = "com.ctrl.newweather.db.County"/>
+    </list>
+</litepal>
+
