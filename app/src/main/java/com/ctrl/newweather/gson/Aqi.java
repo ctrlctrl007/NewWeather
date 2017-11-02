@@ -7,7 +7,7 @@ package com.ctrl.newweather.gson;
 public class Aqi {
     public class AqiCity{
         public String aqi;
-        public String pm15;
+        public String pm25;
     }
     public AqiCity city;
 }
